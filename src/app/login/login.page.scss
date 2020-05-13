@@ -1,0 +1,40 @@
+.content{
+    position: fixed;
+    margin-top: 90px;
+    margin-left: 40px;
+}
+
+//Texte d'accueil
+.Welcome_context{
+    margin-left: 5px;
+}
+.wel_text{
+    font-size: 24px;
+    color: #142E52;
+    word-spacing: 0.25px;
+}
+.acc_text{
+    font-size: 14px;
+    color: #142E52;
+    font-family: 'Roboto-Medium', sans-serif;
+}
+
+//Formulaire
+ion-input{
+    background-color: #F2F4F6;
+    border-radius: 4px;
+    font-size: small;
+    font-family: 'Roboto-Medium', sans-serif;
+    
+}
+.submit_button{
+    border-radius: 3px;
+    background-color: #233B5D;
+}
+
+
+
+
+
+
+
